@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+.vercel
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
